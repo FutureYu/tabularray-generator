@@ -1,4 +1,4 @@
-res = [r"\begin{table}[H]",
+res = [r"\begin{table}[!htbp]",
        r"    \caption{这是标题}", 
        r"    \begin{tblr}{",
     ]
